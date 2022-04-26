@@ -1,0 +1,7 @@
+dataPlotting module
+===================
+
+.. automodule:: dataPlotting
+   :members:
+   :undoc-members:
+   :show-inheritance:
